@@ -22,7 +22,7 @@
 
 * __Licencia__: [MIT](./LICENCE.md)
 
-* __Discord__: [Discord](https://discord.gg/BzkAQdV)
+* __Discord__: [Server](https://discord.gg/BzkAQdV)
 
 * __YouTube__: [TBD]
 
