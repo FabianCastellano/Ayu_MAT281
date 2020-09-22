@@ -9,6 +9,8 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
+## Horario: Jueves 5-6
+
 ## Repositorio Ayudantía
 
 
@@ -19,6 +21,8 @@
 * __Repositorio Curso__: [GitHub](https://aoguedao.github.io/mat281_2020S2/lessons/M1L01_about_mat281.html#programa-del-curso-tentativo)
 
 * __Licencia__: [MIT](./LICENCE.md)
+
+* __Discord__: [Server](https://discord.gg/BzkAQdV)
 
 * __YouTube__: [TBD]
 
