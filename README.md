@@ -24,7 +24,6 @@
 
 * __Discord__: [Server](https://discord.gg/BzkAQdV)
 
-* __YouTube__: [TBD]
 
 Recopilación de las ayudantías de la asignatura MAT281 correspondiente al segundo semestre del año 2020.
 
